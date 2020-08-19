@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Update.jar">
+    <output-path>C:/</output-path>
+    <root id="archive" name="Manager.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:/manager01-last/.idea/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Manager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/drivers/h2-1.4.196.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

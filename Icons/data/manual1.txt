@@ -1,0 +1,14 @@
+﻿
+ Tast i - afisaza poza persoanei selectate din tabel
+ Tasta delete sau del - instantiaza posibilitatea stergerii persoanei selectate
+ 
+ Butonul "+ membru nou" premite adaugarea de noi membri
+	   - dacă din toolbar ati selectat in prealabil spre exemplu transferati, butonul "+ membru nou" va
+	   adauga o noua inregistrare pentru tabelul transferati
+	   - dacă din toolbar ati selectat in prealabil spre exemplu copii, butonul "+ membru nou" va
+	   adauga o noua înregistrare pentru tabelul copii
+	   - în cazul în care nu ati selectat nimic din toolbar, butonul "+ membru nou" va
+	   adauga o noua înregistrare pentru tabelul implicit, adică membri.
+
+Imaginea feliei de tort (ultimul buton din partea dreaptă) permite sortarea tabeleului selectat după zilele de naștere
+Butonul "refresh" va ordona tabelul în ordine alfabetică

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Manager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/idea.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
